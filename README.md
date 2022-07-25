@@ -21,6 +21,10 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 <hr height="80" align="center">
+  
+  
+  
+  ![](https://github.com/cintyasanini/cintyasanini/blob/main/cat.gif)
 
 ![Snake animation](https://github.com/cintyasanini/cintyasanini/blob/output/github-contribution-grid-snake.svg)
  
