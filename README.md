@@ -24,7 +24,6 @@
   
   
   
-  ![](https://github.com/cintyasanini/cintyasanini/blob/main/cat.gif)
 
 ![Snake animation](https://github.com/cintyasanini/cintyasanini/blob/output/github-contribution-grid-snake.svg)
  
