@@ -20,9 +20,10 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
+
+  
+  ![cat](https://user-images.githubusercontent.com/101289471/180713565-27d19be9-25ac-4139-bee0-03a1adb24297.gif)
 <hr height="80" align="center">
-  
-  
   
 
 ![Snake animation](https://github.com/cintyasanini/cintyasanini/blob/output/github-contribution-grid-snake.svg)
