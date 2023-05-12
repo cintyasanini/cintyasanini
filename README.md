@@ -4,7 +4,6 @@
 
 - 🌱 Atualmente, sou Desenvolvedora Web Jr.
 - 🌱 Estou aprendendo Java.
-- 🌱 Pronomes: ela/dela.
 
 <div align="center">
   <a href="https://github.com/cintyasanini">
